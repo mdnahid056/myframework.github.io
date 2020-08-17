@@ -1,0 +1,38 @@
+:root {
+	--fon:'Alata', sans-serif;
+    --fon-3:'Krona One', sans-serif;
+    --fon-4:'Megrim', cursive;
+    --fon-5:'Philosopher', sans-serif;
+    --fon-6:'Playball', cursive;
+
+    --fon-7:'Rozha One', serif;
+
+    --fon-8:'Volkhov', serif;
+
+    --fon-9:'Audiowide', cursive;
+
+    --fon-10:'Julius Sans One', sans-serif;
+
+    --fon-12:'Krona One', sans-serif;
+
+    --fon-13:'Lobster', cursive;
+
+    --fon-14:'Lobster Two', cursive;
+
+    --fon-15:'Philosopher', sans-serif;
+
+    --fon-16:'Rajdhani', sans-serif;
+
+    --fon-17:'Raleway', sans-serif;
+/*-----------------------------------------------------------------*/
+    --cl-1:#00F2FF;
+    --cl-2:#00C4FF;
+    --cl-3:#FF00C0;
+    --cl-4:#FF007E;
+    --cl-5:#FF005A;
+    --cl-6:#FF0018;
+    --cl-7:#00FF72;
+    --cl-8:#47FF00;
+    --cl-9:#C0FF00;
+    --cl-10:#FF5A00;
+}
